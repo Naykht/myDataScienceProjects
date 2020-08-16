@@ -1,1 +1,1 @@
-# myDataScienceProjects
+# DataScienceProjects
