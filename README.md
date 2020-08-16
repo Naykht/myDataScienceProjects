@@ -4,7 +4,7 @@
 
 |Название проекта|Описание|Используемые библиотеки|
 |:---------------|:-------|:---------------------|
-|[Исследование надежности заемщиков](https://github.com/Naykht/DataScienceProjects/tree/master/research_reliability_of_borrowers)|Исследовать, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|- pandas - pymystem3 - collections|
+|[Исследование надежности заемщиков](https://github.com/Naykht/DataScienceProjects/tree/master/research_reliability_of_borrowers)|Исследовать, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|pandas\pymystem3\collections\|
 
 ## Машинное обучение
 
