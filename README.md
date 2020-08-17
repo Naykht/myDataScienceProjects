@@ -43,4 +43,4 @@
 
 |Название проекта|Описание|Используемые библиотеки|
 |:---------------|:-------|:---------------------|
-|[Предсказание возраста покупателей по фотографии](https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo)|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитекутра ResNet50|
+|[Предсказание возраста покупателей по фотографии](https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo)|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитектура ResNet50|
