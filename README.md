@@ -25,6 +25,7 @@
 |:-------|:-------:|:-------|:-------|
 |[Рекомендация тарифов][5]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.|pandas, sklearn|
 |[Отток клиентов][6]|Яндекс.Практикум|Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.|pandas, sklearn, matplotlib, numpy, работа с дисбалансом классов|
+|[Бурение скважины][7]|Яндекс.Практикум|Необходимо решить, где бурить новую скважину, с помощью модели машинного обучения, которая позволит определить регион, который принесет наибольшую прибыль, на основании данных о пробах нефти в трех регионах, где в каждом располагается 10000 месторождений.|pandas, sklearn, matplotlib, seaborn, numpy, scipy, bootstrap, доверительные интервалы|
 
 - ### Тексты
 |Название проекта|Описание|Используемые библиотеки|
@@ -54,3 +55,4 @@
 [4]: https://github.com/Naykht/DataScienceProjects/tree/master/research_game_store
 [5]: https://github.com/Naykht/DataScienceProjects/tree/master/mobile_plans_classification
 [6]: https://github.com/Naykht/DataScienceProjects/blob/master/customer_outflow/README.md
+[7]: https://github.com/Naykht/DataScienceProjects/tree/master/well_drilling
