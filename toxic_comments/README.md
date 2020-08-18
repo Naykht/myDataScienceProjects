@@ -10,6 +10,7 @@
 - pandas;
 - sklearn;
 - matplotlib;
+- numpy;
 - nltk;
 - re;
 - spacy.
