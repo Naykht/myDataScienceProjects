@@ -37,8 +37,9 @@
 |:---------------|:-------|:---------------------|
 
 - ### Временные ряды
-|Название проекта|Описание|Используемые библиотеки|
-|:---------------|:-------|:---------------------|
+|Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
+|:-------|:-------:|:-------|:-------|
+|[Предсказание заказов такси][10]|Яндекс.Практикум|Необходимо спрогнозировать количество заказов такси на следующий час.|pandas, sklearn, matplotlib, seaborn, numpy, statsmodels|
 
 - ### Рекомендательные системы
 |Название проекта|Описание|Используемые библиотеки|
@@ -59,3 +60,4 @@
 [7]: https://github.com/Naykht/DataScienceProjects/tree/master/well_drilling
 [8]: https://github.com/Naykht/DataScienceProjects/tree/master/rate_of_recovery_of_gold
 [9]: https://github.com/Naykht/DataScienceProjects/tree/master/data_encryption
+[10]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
