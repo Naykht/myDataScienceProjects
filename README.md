@@ -1,9 +1,10 @@
 # Проекты
 ### Характер проекта
 Курсы:
-- [Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist)
+- [Яндекс.Практикум: Специальность Data Science](https://praktikum.yandex.ru/data-scientist)
 
 ### Сертификаты
+[Яндекс.Практикум: Специальность Data Science]()
 
 ## Аналитика
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и иструменты|
@@ -23,6 +24,7 @@
 |Название проекта|Характер проекта|Описание|Используемые библиотеки|
 |:-------|:-------|:-------|:-------|
 |[Рекомендация тарифов][5]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.|pandas, sklearn|
+|[Отток клиентов][6]|Яндекс.Практикум|Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.|pandas, sklearn, matplotlib, numpy, работа с дисбалансом классов|
 
 - ### Тексты
 |Название проекта|Описание|Используемые библиотеки|
@@ -51,3 +53,4 @@
 [3]: https://github.com/Naykht/DataScienceProjects/tree/master/research_mobile_plans
 [4]: https://github.com/Naykht/DataScienceProjects/tree/master/research_game_store
 [5]: https://github.com/Naykht/DataScienceProjects/tree/master/mobile_plans_classification
+[6]: https://github.com/Naykht/DataScienceProjects/blob/master/customer_outflow/README.md
