@@ -29,8 +29,9 @@
 |[Отток клиентов][6]|Яндекс.Практикум|Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.|pandas, sklearn, matplotlib, numpy, работа с дисбалансом классов|
 
 - ### Тексты
-|Название проекта|Описание|Используемые библиотеки|
-|:---------------|:-------|:---------------------|
+|Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
+|:-------|:-------:|:-------|:-------|
+|[Токсичные комментарии][11]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|pandas, sklearn, matplotlib, numpy, nltk, re, spacy|
 
 - ### Бустинг
 |Название проекта|Описание|Используемые библиотеки|
@@ -61,3 +62,4 @@
 [8]: https://github.com/Naykht/DataScienceProjects/tree/master/rate_of_recovery_of_gold
 [9]: https://github.com/Naykht/DataScienceProjects/tree/master/data_encryption
 [10]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
+[11]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
