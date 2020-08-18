@@ -19,9 +19,9 @@
 ||||
 
 - ### Классификация
-|Название проекта|Описание|Используемые библиотеки|
-|:---------------|:-------|:---------------------|
-|[\*Рекомендация тарифов](https://github.com/Naykht/DataScienceProjects/tree/master/mobile_plans_classification)|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.|pandas, sklearn|
+|Название проекта|Характер проекта|Описание|Используемые библиотеки|
+|:-------|:-------|:-------|:-------|
+|[\*Рекомендация тарифов][5]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.|pandas, sklearn|
 
 - ### Тексты
 |Название проекта|Описание|Используемые библиотеки|
@@ -49,3 +49,4 @@
 [2]: https://github.com/Naykht/DataScienceProjects/tree/master/research_ads_realty
 [3]: https://github.com/Naykht/DataScienceProjects/tree/master/research_mobile_plans
 [4]: https://github.com/Naykht/DataScienceProjects/tree/master/research_game_store
+[5]: https://github.com/Naykht/DataScienceProjects/tree/master/mobile_plans_classification
