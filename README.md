@@ -20,6 +20,7 @@
 |:-------|:-------:|:-------|:-------|
 |[Бурение скважины][7]|Яндекс.Практикум|Необходимо решить, где бурить новую скважину, с помощью модели машинного обучения, которая позволит определить регион, который принесет наибольшую прибыль.|pandas, sklearn, matplotlib, seaborn, numpy, scipy, bootstrap, доверительные интервалы|
 |[Коэффициент восстановления золота][8]|Яндекс.Практикум|Необходимо построить прототип модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды|pandas, sklearn, matplotlib, seaborn, numpy|
+|[Шифрование данных][9]|Яндекс.Практикум|Необходимо разработать метод преобразования данных для модели линейной регрессии, чтобы сложно было восстановить персональную информацию.|pandas, sklearn, numpy, линейная алгебра|
 
 - ### Классификация
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
@@ -57,3 +58,4 @@
 [6]: https://github.com/Naykht/DataScienceProjects/blob/master/customer_outflow/README.md
 [7]: https://github.com/Naykht/DataScienceProjects/tree/master/well_drilling
 [8]: https://github.com/Naykht/DataScienceProjects/tree/master/rate_of_recovery_of_gold
+[9]: https://github.com/Naykht/DataScienceProjects/tree/master/data_encryption
