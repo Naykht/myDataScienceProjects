@@ -9,10 +9,10 @@
 ## Используемые библиотеки и инструменты
 - pandas;
 - sklearn;
-- scipy;
 - matplotlib;
 - seaborn;
 - numpy;
+- scipy;
 - bootstrap;
 - доверительные интервалы.
 
