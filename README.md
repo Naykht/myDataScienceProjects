@@ -37,7 +37,7 @@
 - ### Бустинг
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
 |:-------|:-------:|:-------|:-------|
-|[][13]|Яндекс.Практикум|Необходимо построить модель машинного обучения, которая сможет быстро, качественно подсказать клиенту рыночную стоимость автомобиля.|pandas, sklearn, matplotlib, seaborn, numpy, catboost, lightgbm|
+|[Предсказание стоимости автомобилей][13]|Яндекс.Практикум|Необходимо построить модель машинного обучения, которая сможет быстро, качественно подсказать клиенту рыночную стоимость автомобиля.|pandas, sklearn, matplotlib, seaborn, numpy, catboost, lightgbm|
 
 - ### Временные ряды
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
@@ -51,7 +51,7 @@
 ## Нейронные сети
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
 |:-------|:-------:|:-------|:-------|
-|[Предсказание возраста покупателей по фотографии](https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo)|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитектура ResNet50|
+|[Предсказание возраста покупателей по фотографии][14]|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитектура ResNet50|
 
 
 [1]: https://github.com/Naykht/DataScienceProjects/tree/master/research_reliability_of_borrowers
@@ -67,3 +67,4 @@
 [11]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
 [12]: https://github.com/Naykht/DataScienceProjects/tree/master/research_airline
 [13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_price_of_cars
+[14]: https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo
