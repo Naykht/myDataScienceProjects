@@ -11,8 +11,6 @@
 - matplotlib;
 - seaborn;
 - numpy;
-- HistGradientBoostingClassifier;
-- GradientBoostingClassifier;
-- ансамбли;
+- бустинг;
 - бэггинг;
-- стэкинг моделей.
+- стэкинг.
