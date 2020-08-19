@@ -41,6 +41,7 @@
 - ### Классификация
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
 |:-------|:-------:|:-------|:-------|
+|[Предиктивный анализ потока абитуриентов][19]|Курсовая работа|Предскажем с какой вероятность абитуриент поступит в университет на определенную программу после подачи документов в приемную коммисию, а также определим, какие признаки являются наиболее важными при определении этой вероятности.|pandas, sklearn, matplotlib, seaborn, numpy|
 |[Рекомендация тарифов][5]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.|pandas, sklearn|
 |[Отток клиентов][6]|Яндекс.Практикум|Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.|pandas, sklearn, matplotlib, numpy, работа с дисбалансом классов|
 |[Предсказание наличия диабета][18]|ИАД|Домашнаяя работа: необходимо предсказать наличие или отсутствие диабета у человека.|pandas, sklearn, matplotlib, seaborn, numpy, бустинг, бэггинг, стэкинг|
@@ -84,3 +85,4 @@
 [16]: https://github.com/Naykht/DataScienceProjects/tree/master/research_titanic
 [17]: https://github.com/Naykht/DataScienceProjects/tree/master/house_price_prediction
 [18]: https://github.com/Naykht/DataScienceProjects/tree/master/diabet_classification
+[19]: https://github.com/Naykht/DataScienceProjects/tree/master/predictive_analysis_flow_of_applicants
