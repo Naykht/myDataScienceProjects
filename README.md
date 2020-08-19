@@ -25,7 +25,7 @@
 |[Определение перспективного тарифа для телеком компании][3]|Яндекс.Практикум|Необходимо провести анализ тарифов для того, чтобы выяснить, какой тариф приносит больше денег.|pandas, matplotlib, seaborn, numpy, scipy, сводные таблицы, проверка гипотез|
 |[Определение популярных продуктов для рекламной кампании интернет-магазина][4]|Яндекс.Практикум|С помощью исторических данных о продажах игр, оценках пользователей и экспертов, жанрах и платформах необходимо выявить определяющие успех игры факторы.|pandas, matplotlib, seaborn, numpy, scipy, сводные таблицы, проверка гипотез|
 |[Аналитика в авиакомпании][12]|Яндекс.Практикум|Необходимо изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят фестивали.|pandas, matplotlib, seaborn, numpy, scipy, проверка гипотез|
-|[][16]||||
+|[Анализ данных пассажиров Титаника][16]|ИАД|Домашняя работа|pandas, matplotlib, numpy|
 
 ## Машинное обучение
 - ### Регрессия
@@ -82,3 +82,4 @@
 [13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_price_of_cars
 [14]: https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo
 [15]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
+[16]: https://github.com/Naykht/DataScienceProjects/tree/master/research_titanic
