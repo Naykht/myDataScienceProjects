@@ -44,6 +44,7 @@
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
 |:-------|:-------:|:-------|:-------|
 |[Токсичные комментарии][11]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|pandas, sklearn, matplotlib, numpy, nltk, re, spacy|
+|[Предсказание категории товара][15]|ИАД|Домашняя работа|pandas, sklearn, matplotlib, numpy, pymystem3, pymorphy2, spacy, TF-IDF, Hasing Vectorizer, Word Vectors, BOW|
 
 - ### Бустинг
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
@@ -79,3 +80,4 @@
 [12]: https://github.com/Naykht/DataScienceProjects/tree/master/research_airline
 [13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_price_of_cars
 [14]: https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo
+[15]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
