@@ -13,11 +13,11 @@
 Цель: MAE < 8
 
 ## Используемые библиотеки и инструменты
-- pandas
-- matplotlib
-- seaborn
-- tensorflow.keras
-- архитектура ResNet50
+- pandas;
+- matplotlib;
+- seaborn;
+- tensorflow.keras;
+- архитектура ResNet50.
 
 ## Результат
 На тестовой выборке MAE: 7.9972 < 8.
