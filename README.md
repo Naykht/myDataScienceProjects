@@ -37,6 +37,7 @@
 - ### Бустинг
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
 |:-------|:-------:|:-------|:-------|
+|[][13]|Яндекс.Практикум|Необходимо построить модель машинного обучения, которая сможет быстро, качественно подсказать клиенту рыночную стоимость автомобиля.|pandas, sklearn, matplotlib, seaborn, numpy, catboost, lightgbm|
 
 - ### Временные ряды
 |Название проекта|Характер проекта|Описание|Используемые библиотеки и инструменты|
@@ -65,3 +66,4 @@
 [10]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
 [11]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
 [12]: https://github.com/Naykht/DataScienceProjects/tree/master/research_airline
+[13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_price_of_cars
