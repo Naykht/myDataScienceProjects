@@ -60,6 +60,7 @@
 - ### Рекомендательные системы
 |Название проекта|Источник проекта|Описание|Используемые библиотеки и инструменты|Статус проекта|
 |:-------|:-------:|:-------|:-------|:-------:|
+|[Оценка фильмов][20]|Университет|Необходимо спрогнозировать оценки фильмов по оценкам других пользователей.|pandas, sklearn, numpy, scipy, сингулярное разложение|`Домашняя работа`|
 
 ## Нейронные сети
 |Название проекта|Источник проекта|Описание|Используемые библиотеки и инструменты|Статус проекта|
@@ -87,3 +88,4 @@
 [17]: https://github.com/Naykht/DataScienceProjects/tree/master/house_price_prediction
 [18]: https://github.com/Naykht/DataScienceProjects/tree/master/diabet_classification
 [19]: https://github.com/Naykht/DataScienceProjects/tree/master/predictive_analysis_flow_of_applicants
+[20]: https://github.com/Naykht/DataScienceProjects/tree/master/score_movie_prediction
