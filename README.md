@@ -74,7 +74,7 @@
 [3]: https://github.com/Naykht/DataScienceProjects/tree/master/research_mobile_plans
 [4]: https://github.com/Naykht/DataScienceProjects/tree/master/research_game_store
 [5]: https://github.com/Naykht/DataScienceProjects/tree/master/mobile_plans_classification
-[6]: https://github.com/Naykht/DataScienceProjects/blob/master/customer_outflow/README.md
+[6]: https://github.com/Naykht/DataScienceProjects/tree/master/customer_outflow
 [7]: https://github.com/Naykht/DataScienceProjects/tree/master/well_drilling
 [8]: https://github.com/Naykht/DataScienceProjects/tree/master/rate_of_recovery_of_gold
 [9]: https://github.com/Naykht/DataScienceProjects/tree/master/data_encryption
