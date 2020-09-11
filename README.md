@@ -7,7 +7,7 @@
 - [Интеллектуальный анализ данных (ИАД): Введение в анализ данных](http://wiki.cs.hse.ru/Введение_в_анализ_данных_(майнор_ИАД))
 - Курсовая работа:
   - 2 курс: [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
-- Выпускная квалификационная (дипломная) работа: Перевод текстового описания в картинку
+- Выпускная квалификационная (дипломная) работа: [Соколов Е.А.](https://www.hse.ru/staff/esokolov), Перевод текстового описания в изображение
 
 Хакатоны:
 
@@ -69,7 +69,7 @@
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Предсказание возраста покупателей по фотографии][14]|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитектура ResNet50|`Завершен`|
 |[Разработка агрегатора предложений баров и ресторанов с рекомендательным сервисом][22]|Командный проект|Разработка методов анализа изображений на основе python для поиска лиц.|pandas, tensorflow.keras, FaceNet|`Завершен`|
-
+|Перевод текстового описания в изображение|ВКР|||`В процессе`|
 
 [1]: https://github.com/Naykht/DataScienceProjects/tree/master/research_reliability_of_borrowers
 [2]: https://github.com/Naykht/DataScienceProjects/tree/master/research_ads_realty
