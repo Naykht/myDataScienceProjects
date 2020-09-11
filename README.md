@@ -5,9 +5,10 @@
 
 Университет:
 - [Интеллектуальный анализ данных (ИАД): Введение в анализ данных](http://wiki.cs.hse.ru/Введение_в_анализ_данных_(майнор_ИАД))
+- [Интеллектуальный анализ данных (ИАД): Современные методы машинного обучения](http://wiki.cs.hse.ru/Современные_методы_машинного_обучения_(майнор_ИАД))
 - Курсовая работа:
   - 2 курс: [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
-- Выпускная квалификационная (дипломная) работа: 
+- Выпускная квалификационная работа (ВКР): 
   - 3-4 курс: [Соколов Е.А.](https://www.hse.ru/staff/esokolov), Перевод текстового описания в изображение
 
 Хакатоны:
