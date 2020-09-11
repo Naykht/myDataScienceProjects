@@ -67,7 +67,7 @@
 |Название проекта|Источник проекта|Описание|Используемые библиотеки и инструменты|Статус проекта|
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Предсказание возраста покупателей по фотографии][14]|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитектура ResNet50|`Завершен`|
-|Разработка агрегатора предложений баров и ресторанов с рекомендательным сервисом|Командный проект|Разработка методов анализа изображений на основе python для поиска лиц.|pandas, tensorflow.keras, FaceNet|`В процессе`|
+|[Разработка агрегатора предложений баров и ресторанов с рекомендательным сервисом][22]|Командный проект|Разработка методов анализа изображений на основе python для поиска лиц.|pandas, tensorflow.keras, FaceNet|`В процессе`|
 
 
 [1]: https://github.com/Naykht/DataScienceProjects/tree/master/research_reliability_of_borrowers
@@ -91,3 +91,4 @@
 [19]: https://github.com/Naykht/DataScienceProjects/tree/master/predictive_analysis_flow_of_applicants
 [20]: https://github.com/Naykht/DataScienceProjects/tree/master/score_movie_prediction
 [21]: https://github.com/Naykht/DataScienceProjects/tree/master/telecom
+[22]: https://github.com/Naykht/DataScienceProjects/tree/master/face_recognition
