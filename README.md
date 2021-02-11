@@ -1,5 +1,4 @@
 # Проекты
-### Источник проекта
 Курсы:
 - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
 
