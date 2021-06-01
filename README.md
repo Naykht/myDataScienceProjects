@@ -1,5 +1,5 @@
 **Дополнительные курсы:**
-- [Яндекс.Практикум: Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
+- Яндекс.Практикум: [Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
 
 **Университет (ВШЭ):**
 - Ассистентство:
