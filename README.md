@@ -1,5 +1,5 @@
 # Проекты
-Курсы:
+Дополнительные курсы:
 - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
 
 Университет:
