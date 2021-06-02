@@ -18,12 +18,12 @@
   - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
 
 # Структура проектов
-- Регрессия
-- Классификация
-- Тексты
-- Временные ряды
-- Рекомендательные системы
-- Нейронные сети
+- [Регрессия](https://github.com/knyht/data-science-projects/blob/master/README.md#регрессия)
+- [Классификация](https://github.com/knyht/data-science-projects/blob/master/README.md#классификация)
+- [Тексты](https://github.com/knyht/data-science-projects/blob/master/README.md#тексты)
+- [Временные ряды](https://github.com/knyht/data-science-projects/blob/master/README.md#временные_ряды)
+- [Рекомендательные системы]
+- [Нейронные сети]
 
 ## Регрессия
 |Название проекта|Источник|Описание|Инструменты|Статус|
