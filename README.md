@@ -78,27 +78,27 @@
 |:-------|:-------:|:-------|:-------:|:-------:|
 |[Детекция фруктов на изображении][17]|ИАД|Необходимо обучить детектор фруктов на изображении и добиться *PR-AUC* не менее 0.91 на тестовом.|`pandas` `numpy` `matplotlib` `sklearn` `torch` `torchvision` `FastRCNNPredictor` `albumentations`|Завершен|
 
-[1]: https://github.com/knyht/data-science-projects/tree/master/house_price_prediction
-[2]: https://github.com/knyht/data-science-projects/tree/master/prediction_price_of_cars
-[3]: https://github.com/knyht/data-science-projects/tree/master/well_drilling
-[4]: https://github.com/knyht/data-science-projects/tree/master/rate_of_recovery_of_gold
-[5]: https://github.com/knyht/data-science-projects/tree/master/data_encryption
+[1]: https://github.com/knyht/data-science-projects/tree/master/projects/house_price_prediction
+[2]: https://github.com/knyht/data-science-projects/tree/master/projects/prediction_price_of_cars
+[3]: https://github.com/knyht/data-science-projects/tree/master/projects/well_drilling
+[4]: https://github.com/knyht/data-science-projects/tree/master/projects/rate_of_recovery_of_gold
+[5]: https://github.com/knyht/data-science-projects/tree/master/projects/data_encryption
 
-[6]: https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants
-[7]: https://github.com/knyht/data-science-projects/tree/master/diabet_classification
-[8]: https://github.com/knyht/data-science-projects/tree/master/telecom
-[9]: https://github.com/knyht/data-science-projects/tree/master/mobile_plans_classification
-[10]: https://github.com/knyht/data-science-projects/tree/master/customer_outflow
+[6]: https://github.com/knyht/data-science-projects/tree/master/projects/predictive_analysis_flow_of_applicants
+[7]: https://github.com/knyht/data-science-projects/tree/master/projects/diabet_classification
+[8]: https://github.com/knyht/data-science-projects/tree/master/projects/telecom
+[9]: https://github.com/knyht/data-science-projects/tree/master/projects/mobile_plans_classification
+[10]: https://github.com/knyht/data-science-projects/tree/master/projects/customer_outflow
 
-[11]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
-[12]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
+[11]: https://github.com/knyht/data-science-projects/tree/master/projects/category_prediction
+[12]: https://github.com/knyht/data-science-projects/tree/master/projects/toxic_comments
 
-[13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
+[13]: https://github.com/knyht/data-science-projects/tree/master/projects/prediction_of_taxi_orders
 
 [14]: https://github.com/AleksandrRadist/RecommendationSystem
-[19]: https://github.com/knyht/data-science-projects/tree/master/recsys_articles
+[19]: https://github.com/knyht/data-science-projects/tree/master/projects/recsys_articles
 
-[15]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
-[16]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
-[17]: https://github.com/knyht/data-science-projects/tree/master/image_classification_detection
-[18]: https://github.com/knyht/data-science-projects/tree/master/hotel_ratings_review
+[15]: https://github.com/knyht/data-science-projects/tree/master/projects/predict_age_by_photo
+[16]: https://github.com/knyht/data-science-projects/tree/master/projects/fashion_mnist_classification
+[17]: https://github.com/knyht/data-science-projects/tree/master/projects/image_classification_detection
+[18]: https://github.com/knyht/data-science-projects/tree/master/projects/hotel_ratings_review
