@@ -2,7 +2,6 @@
 - \[12.20-02.21] Sberseasons: [Data Scientist/Data Analyst](https://github.com/knyht/data-science-projects/blob/master/certificates/sberseasons.pdf)
 
 **Дополнительные курсы:**
-- \[04.21-08.21] Karpov.Courses: Аналитик данных
 - \[01.20-09.20] Яндекс.Практикум: [Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
 
 **Университет, Высшая Школа Экономики:**
