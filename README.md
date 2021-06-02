@@ -73,10 +73,10 @@
 [11]: https://github.com/knyht/data-science-projects/tree/master/customer_outflow
 [12]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
 
-[13]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
-[14]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
+[13]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
+[14]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
 
-[15]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
+[15]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
 
 [16]: https://github.com/AleksandrRadist/RecommendationSystem
 
