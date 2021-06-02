@@ -68,13 +68,13 @@
 - ### Классификация
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
+|[Классификация изображений][17]|ИАД|Необходимо построить нейронную сеть классификации 200 классов изображений и добиться accuracy не менее 0.44.|`numpy` `sklearn` `torch` `torchvision`|Завершен|
 |[Fashion-MNIST][16]|ИАД|Необходимо реализовать оптимизатор Adam с нуля и построить архитектуры нейронных сетей, в том числе AlexNet и LeNet-5.|`numpy` `torch` `torchvision`|Завершен|
-|[Классификация изображений][17]|ИАД|Необходимо реализовать оптимизатор Adam с нуля и построить архитектуры нейронных сетей, в том числе AlexNet и LeNet-5.|`numpy` `torch` `torchvision`|Завершен|
 
--- ### Детекция
+- ### Детекция
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Детекция изображений][17]|ИАД|Необходимо реализовать оптимизатор Adam с нуля и построить архитектуры нейронных сетей, в том числе AlexNet и LeNet-5.|`numpy` `torch` `torchvision`|Завершен|
+|[Детекция фруктов на изображении][17]|ИАД|Необходимо обучить детектор фруктов на изображении и добиться *PR-AUC* не менее 0.91 на тестовом.|`pandas` `numpy` `matplotlib` `sklearn` `torch` `torchvision` `FastRCNNPredictor` `albumentations`|Завершен|
 
 [1]: https://github.com/knyht/data-science-projects/tree/master/house_price_prediction
 [2]: https://github.com/knyht/data-science-projects/tree/master/prediction_price_of_cars
@@ -97,4 +97,4 @@
 
 [15]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
 [16]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
-[17]: 
+[17]: https://github.com/knyht/data-science-projects/tree/master/image_classification_detection
