@@ -76,7 +76,7 @@
 - ### Детекция
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Детекция фруктов на изображении][17]|ИАД|Необходимо обучить детектор фруктов на изображении и добиться *PR-AUC* не менее 0.91 на тестовом.|`pandas` `numpy` `matplotlib` `sklearn` `torch` `torchvision` `FastRCNNPredictor` `albumentations`|Завершен|
+|[Детекция фруктов на изображении][17]|ИАД|Необходимо обучить детектор фруктов на изображении и добиться *PR-AUC* не менее 0.91 на тестовом.|`pandas` `numpy` `matplotlib` `sklearn` `torch` `torchvision` `albumentations`|Завершен|
 
 [1]: https://github.com/knyht/data-science-projects/tree/master/projects/house_price_prediction
 [2]: https://github.com/knyht/data-science-projects/tree/master/projects/prediction_price_of_cars
