@@ -21,9 +21,9 @@
 - [Регрессия](https://github.com/knyht/data-science-projects/blob/master/README.md#регрессия)
 - [Классификация](https://github.com/knyht/data-science-projects/blob/master/README.md#классификация)
 - [Тексты](https://github.com/knyht/data-science-projects/blob/master/README.md#тексты)
-- [Временные ряды](https://github.com/knyht/data-science-projects/blob/master/README.md#временные_ряды)
-- [Рекомендательные системы]
-- [Нейронные сети]
+- [Временные ряды](https://github.com/knyht/data-science-projects/blob/master/README.md#временные-ряды)
+- [Рекомендательные системы](https://github.com/knyht/data-science-projects/blob/master/README.md#рекомендательные-системы)
+- [Нейронные сети](https://github.com/knyht/data-science-projects/blob/master/README.md#нейронные-сети)
 
 ## Регрессия
 |Название проекта|Источник|Описание|Инструменты|Статус|
