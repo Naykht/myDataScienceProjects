@@ -16,12 +16,6 @@
 - \[2020] Курсовая работа, [GitHub](https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants):
   - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
 
-### Сертификаты
-|Сертификат|Дата получения|
-|:-------|:-------:|
-|[Яндекс.Практикум: Специалист по Data Science](https://github.com/Naykht/DataScienceProjects/blob/master/certificates/diploma_yandex_practicum.pdf)|08.09.20|
-|Sberseasons|15.02.21|
-
 ## Аналитика
 |Название проекта|Источник проекта|Описание|Используемые библиотеки и инструменты|Статус проекта|
 |:-------|:-------:|:-------|:-------|:-------:|
