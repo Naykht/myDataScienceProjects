@@ -15,13 +15,6 @@
   -  [Косарев И.М.](https://www.hse.ru/staff/i.kosarev), [Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций](https://github.com/knyht/data-science-projects/blob/master/recsys_bank_transactions/recsys_bank_transactions.pdf)
 - \[2020] Курсовая работа, [GitHub](https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants):
   - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
-- Командные проекты:  
-  - [Разработка агрегатора предложений баров и ресторанов с рекомендательным сервисом](https://pf.hse.ru/382613023.html)
-
-Хакатоны:
-
-Стажировки:
-- Sberseasons, Data Analyst/Data Scientist, 08.12.20-08.02.21
 
 ### Сертификаты
 |Сертификат|Дата получения|
@@ -73,7 +66,7 @@
 - ### Рекомендательные системы
 |Название проекта|Источник проекта|Описание|Используемые библиотеки и инструменты|Статус проекта|
 |:-------|:-------:|:-------|:-------|:-------:|
-|[Оценка фильмов][20]|Университет|Необходимо спрогнозировать оценки фильмов по оценкам других пользователей.|pandas, sklearn, numpy, scipy, сингулярное разложение|`Домашняя работа`|
+|[Оценка фильмов][20]|Университет|Необходимо спрогнозировать оценки фильмов по оценкам других пользователей.|pandas, sklearn, numpy, scipy, catboost|`Завершен`|
 
 ## Нейронные сети
 |Название проекта|Источник проекта|Описание|Используемые библиотеки и инструменты|Статус проекта|
