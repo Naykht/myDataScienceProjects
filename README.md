@@ -58,7 +58,8 @@
 ## Рекомендательные системы
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций][14]|Курсовой проект|Необходимо реализовать рекомендательную систему, которая позволит предсказывать наиболее релевантные категории товаров или услуг клиентам банка по истории их транзакций.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `scipy` `psycopg2-binary`|Завершен|
+|[Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций][14]|Курсовой проект|Необходимо реализовать рекомендательную систему, которая позволит предсказывать наиболее релевантные категории товаров или услуг клиентам банка по истории их транзакций.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `catboost` `scipy` `psycopg2-binary`|Завершен|
+|[Рекомендательная модель статей][19]|ИАД|Необходимо реализовать модель рекомендательной системы статей.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `catboost` `scipy` `lightfm` `nltk` `TF-IDF` `sentence_transformers`|Завершен|
 
 ## Нейронные сети
 - ### Регрессия
@@ -95,6 +96,7 @@
 [13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
 
 [14]: https://github.com/AleksandrRadist/RecommendationSystem
+[19]: https://github.com/knyht/data-science-projects/tree/master/recsys_articles
 
 [15]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
 [16]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
