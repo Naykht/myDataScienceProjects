@@ -47,7 +47,8 @@
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
 |[Предсказание категории товара][11]|ИАД|Имеется информация об объектах 50 классов. Необходимо по новым объектам предсказать категорию товара.|`pandas` `numpy` `matplotlib`  `sklearn` `BOW` `TF-IDF` `Hasing Vectorizer` `pymystem3` `pymorphy2` `spacy` `genism` `Word Vectors`|Завершен|
-|[Токсичные комментарии][12]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|`pandas` `numpy` `matplotlib`  `sklearn` `nltk` `re` `spacy` `BOW` `TF-IDF`|Завершен|
+|[Предсказание пользовательской оценки отеля по тексту отзыва][18]|ИАД|Необходимо научиться предсказывать оценку отеля по отзыву и получить значение MAE не превышающее 1.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `TF-IDF` `Count Vectorizer` `nltk` `genism` `Word Vectors`|Завершен|
+|[Токсичные комментарии][12]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|`pandas` `numpy` `matplotlib`  `sklearn` `BOW` `TF-IDF` `nltk` `re` `spacy`|Завершен|
 
 ## Временные ряды
 |Название проекта|Источник|Описание|Инструменты|Статус|
@@ -98,3 +99,4 @@
 [15]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
 [16]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
 [17]: https://github.com/knyht/data-science-projects/tree/master/image_classification_detection
+[18]: https://github.com/knyht/data-science-projects/tree/master/hotel_ratings_review
