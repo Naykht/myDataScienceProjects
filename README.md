@@ -26,7 +26,6 @@
 |[Определение перспективного тарифа для телеком компании][3]|Яндекс.Практикум|Необходимо провести анализ тарифов для того, чтобы выяснить, какой тариф приносит больше денег.|pandas, matplotlib, seaborn, numpy, scipy, сводные таблицы, проверка гипотез|`Завершен`|
 |[Определение популярных продуктов для рекламной кампании интернет-магазина][4]|Яндекс.Практикум|С помощью исторических данных о продажах игр, оценках пользователей и экспертов, жанрах и платформах необходимо выявить определяющие успех игры факторы.|pandas, matplotlib, seaborn, numpy, scipy, сводные таблицы, проверка гипотез|`Завершен`|
 |[Аналитика в авиакомпании][12]|Яндекс.Практикум|Необходимо изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят фестивали.|pandas, matplotlib, seaborn, numpy, scipy, проверка гипотез|`Завершен`|
-|[Анализ данных пассажиров Титаника][16]|ИАД|-|pandas, matplotlib, numpy|`Домашняя работа`|
 
 ## Машинное обучение
 - ### Регрессия
@@ -84,10 +83,10 @@
 [13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_price_of_cars
 [14]: https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo
 [15]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
-[16]: https://github.com/Naykht/DataScienceProjects/tree/master/research_titanic
+
 [17]: https://github.com/Naykht/DataScienceProjects/tree/master/house_price_prediction
 [18]: https://github.com/Naykht/DataScienceProjects/tree/master/diabet_classification
 [19]: https://github.com/Naykht/DataScienceProjects/tree/master/predictive_analysis_flow_of_applicants
 [20]: https://github.com/Naykht/DataScienceProjects/tree/master/score_movie_prediction
 [21]: https://github.com/Naykht/DataScienceProjects/tree/master/telecom
-[22]: https://github.com/Naykht/DataScienceProjects/tree/master/face_recognition
+
