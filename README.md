@@ -33,10 +33,10 @@
 ## Классификация
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Предсказание наличия диабета][7]|ИАД|Необходимо предсказать наличие или отсутствие диабета у человека.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `бустинг` `бэггинг` `стэкинг`|Завершен|
 |[Предиктивный анализ потока абитуриентов][8]|Курсовая работа|Необходимо предсказать, с какой вероятность абитуриент поступит в университет на определенную программу после подачи документов в приемную коммисию, а также определить, какие признаки являются наиболее важными при определении этой вероятности.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn`|Завершен|
+|[Предсказание наличия диабета][7]|ИАД|Необходимо предсказать наличие или отсутствие диабета у человека.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `бустинг` `бэггинг` `стэкинг`|Завершен|
 |[Телеком][9]|Яндекс.Практикум|Необходимо научиться прогнозировать отток клиентов.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `кластеризация` `понижение размерности` `catboost`|Завершен|
-|[Рекомендация тарифов][10]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.|`pandas` `sklearn`|Завершен|
+|[Рекомендация тарифов][10]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф клиенту.|`pandas` `sklearn`|Завершен|
 |[Отток клиентов][11]|Яндекс.Практикум|Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.|`pandas` `numpy` `matplotlib` `sklearn`|Завершен|
 - ### Нейронные сети
 |Название проекта|Источник|Описание|Инструменты|Статус|
@@ -66,8 +66,8 @@
 [5]: https://github.com/knyht/data-science-projects/tree/master/data_encryption
 [6]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
 
-[7]: https://github.com/knyht/data-science-projects/tree/master/diabet_classification
-[8]: https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants
+[7]: https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants
+[8]: https://github.com/knyht/data-science-projects/tree/master/diabet_classification
 [9]: https://github.com/knyht/data-science-projects/tree/master/telecom
 [10]: https://github.com/knyht/data-science-projects/tree/master/mobile_plans_classification
 [11]: https://github.com/knyht/data-science-projects/tree/master/customer_outflow
