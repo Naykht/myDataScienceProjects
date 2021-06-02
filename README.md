@@ -18,8 +18,7 @@
 - \[2020, 2 курс] Курсовая работа, [GitHub](https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants):
   - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
 
-## Машинное обучение
-- ### Регрессия
+## Регрессия
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Предсказание стоимости автомобилей][13]|Яндекс.Практикум|Необходимо построить модель машинного обучения, которая сможет быстро, качественно подсказать клиенту рыночную стоимость автомобиля.|pandas, sklearn, matplotlib, seaborn, numpy, catboost, lightgbm, бустинг|`Завершен`|
@@ -28,7 +27,7 @@
 |[Шифрование данных][9]|Яндекс.Практикум|Необходимо разработать метод преобразования данных для модели линейной регрессии, чтобы сложно было восстановить персональную информацию.|pandas, sklearn, numpy, линейная алгебра|`Завершен`|
 |[Предсказание цен на недвижимость][17]|ИАД|Реализовать алгоритмы kNN и линейного регрессии своими руками. Добиться того, чтобы лучший алгоритм давал качество не больше 0.121 на тестовых данных по метрике *RMSE*.|pandas, sklearn, matplotlib, seaborn, numpy|`Домашняя работа`|
 
-- ### Классификация
+## Классификация
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------|:-------:|
 |Предиктивная маршрутизация звонков|Sberseasons|Создать концепцию архитектуры модели предиктивной маршрутизации звонков|-|`Завершен`|
@@ -38,18 +37,18 @@
 |[Отток клиентов][6]|Яндекс.Практикум|Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.|pandas, sklearn, matplotlib, numpy, работа с дисбалансом классов|`Завершен`|
 |[Предсказание наличия диабета][18]|ИАД|Необходимо предсказать наличие или отсутствие диабета у человека.|pandas, sklearn, matplotlib, seaborn, numpy, бустинг, бэггинг, стэкинг|`Домашняя работа`|
 
-- ### Тексты
+## Тексты
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Токсичные комментарии][11]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|pandas, sklearn, matplotlib, numpy, nltk, re, spacy, TF-IDF, BOW|`Завершен`|
 |[Предсказание категории товара][15]|ИАД|Имеется информация об объектах 50 классов. Необходимо по новым объектам предсказать категорию товара.|pandas, sklearn, matplotlib, numpy, pymystem3, pymorphy2, spacy, TF-IDF, Hasing Vectorizer, Word Vectors, BOW|`Домашняя работа`|
 
-- ### Временные ряды
+## Временные ряды
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Предсказание заказов такси][10]|Яндекс.Практикум|Необходимо спрогнозировать количество заказов такси на следующий час.|pandas, sklearn, matplotlib, seaborn, numpy, statsmodels|`Завершен`|
 
-- ### Рекомендательные системы
+## Рекомендательные системы
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Оценка фильмов][20]|Университет|Необходимо спрогнозировать оценки фильмов по оценкам других пользователей.|pandas, sklearn, numpy, scipy, catboost|`Завершен`|
@@ -59,10 +58,6 @@
 |:-------|:-------:|:-------|:-------|:-------:|
 |[Предсказание возраста покупателей по фотографии][14]|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|pandas, matplotlib, seaborn, tensorflow.keras, архитектура ResNet50|`Завершен`|
 
-[1]: https://github.com/Naykht/DataScienceProjects/tree/master/research_reliability_of_borrowers
-[2]: https://github.com/Naykht/DataScienceProjects/tree/master/research_ads_realty
-[3]: https://github.com/Naykht/DataScienceProjects/tree/master/research_mobile_plans
-[4]: https://github.com/Naykht/DataScienceProjects/tree/master/research_game_store
 [5]: https://github.com/Naykht/DataScienceProjects/tree/master/mobile_plans_classification
 [6]: https://github.com/Naykht/DataScienceProjects/tree/master/customer_outflow
 [7]: https://github.com/Naykht/DataScienceProjects/tree/master/well_drilling
@@ -70,7 +65,7 @@
 [9]: https://github.com/Naykht/DataScienceProjects/tree/master/data_encryption
 [10]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
 [11]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
-[12]: https://github.com/Naykht/DataScienceProjects/tree/master/research_airline
+
 [13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_price_of_cars
 [14]: https://github.com/Naykht/DataScienceProjects/tree/master/predict_age_by_photo
 [15]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
