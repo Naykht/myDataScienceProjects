@@ -1,5 +1,5 @@
 **Стажировки:**
-- \[12.20-02.21] Sberseasons: [Data Scientist/Data Analyst](https://github.com/knyht/data-science-projects/blob/master/certificates/sberseasons.pdf)
+- \[12.20-02.21] Sberseasons: [Data Scientist](https://github.com/knyht/data-science-projects/blob/master/certificates/sberseasons.pdf)
 
 **Дополнительные курсы:**
 - \[01.20-09.20] Яндекс.Практикум: [Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
