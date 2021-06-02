@@ -17,7 +17,7 @@
 - \[2020, 2 курс] Курсовая работа:
   - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
 
-# Содержание проектов
+# Структура проектов
 - Регрессия
 - Классификация
 - Тексты
