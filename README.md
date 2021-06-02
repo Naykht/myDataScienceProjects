@@ -1,13 +1,13 @@
 **Стажировки:**
-- Sberseasons \[12.20-02.21]: [Data Scientist/Data Analyst](https://github.com/knyht/data-science-projects/blob/master/certificates/sberseasons.pdf)
+- \[12.20-02.21] Sberseasons: [Data Scientist/Data Analyst](https://github.com/knyht/data-science-projects/blob/master/certificates/sberseasons.pdf)
 
 **Дополнительные курсы:**
-- Яндекс.Практикум \[01.20-09.20]: [Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
+- \[01.20-09.20] Яндекс.Практикум: [Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
 
 **Университет (ВШЭ):**
 - Ассистент по курсу:
-  - [Машинное обучение (продвинутый уровень)](http://wiki.cs.hse.ru/Машинное_обучение_(ФЭН)_-_2020) [2020] 
-- Майнор, Интеллектуальный анализ данных (ИАД) \[2020-2021]:
+  - \[2020] [Машинное обучение (продвинутый уровень)](http://wiki.cs.hse.ru/Машинное_обучение_(ФЭН)_-_2020) 
+- \[2020-2021] Майнор, Интеллектуальный анализ данных (ИАД):
   - [Введение в анализ данных](http://wiki.cs.hse.ru/Введение_в_анализ_данных_(майнор_ИАД))
   - [Современные методы машинного обучения](http://wiki.cs.hse.ru/Современные_методы_машинного_обучения_(майнор_ИАД))
   - [Прикладные задачи анализа данных](http://wiki.cs.hse.ru/Прикладные_задачи_анализа_данных)
