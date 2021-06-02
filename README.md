@@ -13,9 +13,9 @@
   - [Глубинные методы машинного обучения](http://wiki.cs.hse.ru/Современные_методы_машинного_обучения_(майнор_ИАД))
   - [Прикладные задачи анализа данных](http://wiki.cs.hse.ru/Прикладные_задачи_анализа_данных)
 - \[2021, 3 курс] Курсовой проект:
-  -  [Косарев И.М.](https://www.hse.ru/staff/i.kosarev), [Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций](https://github.com/knyht/data-science-projects/blob/master/recsys_bank_transactions/recsys_bank_transactions.pdf)
+  -  [Косарев И.М.](https://www.hse.ru/staff/i.kosarev), [Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций](https://github.com/knyht/data-science-projects/blob/master/projects/recsys_bank_transactions/recsys_bank_transactions.pdf)
 - \[2020, 2 курс] Курсовая работа:
-  - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
+  - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/projects/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
 
 # Структура проектов
 - [Регрессия](https://github.com/knyht/data-science-projects/blob/master/README.md#регрессия)
