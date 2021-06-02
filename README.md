@@ -11,9 +11,10 @@
   - [Введение в анализ данных](http://wiki.cs.hse.ru/Введение_в_анализ_данных_(майнор_ИАД))
   - [Современные методы машинного обучения](http://wiki.cs.hse.ru/Современные_методы_машинного_обучения_(майнор_ИАД))
   - [Прикладные задачи анализа данных](http://wiki.cs.hse.ru/Прикладные_задачи_анализа_данных)
-- Курсовая работа:
-  - [2021]: [Косарев И.М.](https://www.hse.ru/staff/i.kosarev), [Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций]()
-  - [2020]: [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
+- \[2021] Курсовая проект:
+  -  [Косарев И.М.](https://www.hse.ru/staff/i.kosarev), [Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций](), [GitHub](https://github.com/AleksandrRadist/RecommendationSystem)
+- \[2020] Курсовая работа:
+  - [Ефремов С.Г.](https://www.hse.ru/staff/sefremov), [Предиктивный анализ потока абитуриентов на образовательные программы НИУ ВШЭ](https://github.com/Naykht/DataScienceProjects/blob/master/predictive_analysis_flow_of_applicants/polikarpov_kn_prediktivnyy-analiz-potoka-abiturientov-na-obrazovatelnye-programmy-niu-vshe_142611.pdf)
 - Командные проекты:  
   - [Разработка агрегатора предложений баров и ресторанов с рекомендательным сервисом](https://pf.hse.ru/382613023.html)
 
