@@ -29,58 +29,57 @@
 ## Классификация
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Предиктивный анализ потока абитуриентов][7]|Курсовая работа|Необходимо предсказать, с какой вероятность абитуриент поступит в университет на определенную программу после подачи документов в приемную коммисию, а также определить, какие признаки являются наиболее важными при определении этой вероятности.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn`|Завершен|
-|[Предсказание наличия диабета][8]|ИАД|Необходимо предсказать наличие или отсутствие диабета у человека.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `бустинг` `бэггинг` `стэкинг`|Завершен|
-|[Телеком][9]|Яндекс.Практикум|Необходимо научиться прогнозировать отток клиентов.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `кластеризация` `понижение размерности` `catboost`|Завершен|
-|[Рекомендация тарифов][10]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф клиенту.|`pandas` `sklearn`|Завершен|
-|[Отток клиентов][11]|Яндекс.Практикум|Необходимо спрогнозировать, уйдет клиент из банка в ближайшее время или нет.|`pandas` `numpy` `matplotlib` `sklearn`|Завершен|
+|[Предиктивный анализ потока абитуриентов][6]|Курсовая работа|Необходимо предсказать, с какой вероятность абитуриент поступит в университет на определенную программу после подачи документов в приемную коммисию, а также определить, какие признаки являются наиболее важными при определении этой вероятности.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn`|Завершен|
+|[Предсказание наличия диабета][7]|ИАД|Необходимо предсказать наличие или отсутствие диабета у человека.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `бустинг` `бэггинг` `стэкинг`|Завершен|
+|[Телеком][8]|Яндекс.Практикум|Необходимо научиться прогнозировать отток клиентов.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `кластеризация` `понижение размерности` `catboost`|Завершен|
+|[Рекомендация тарифов][9]|Яндекс.Практикум|Необходимо построить модель для задачи классификации, которая выберет подходящий тариф клиенту.|`pandas` `sklearn`|Завершен|
+|[Отток клиентов][10]|Яндекс.Практикум|Необходимо спрогнозировать, уйдет клиент из банка в ближайшее время или нет.|`pandas` `numpy` `matplotlib` `sklearn`|Завершен|
 
 ## Тексты
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Предсказание категории товара][13]|ИАД|Имеется информация об объектах 50 классов. Необходимо по новым объектам предсказать категорию товара.|`pandas` `numpy` `matplotlib`  `sklearn` `BOW` `TF-IDF` `Hasing Vectorizer` `pymystem3` `pymorphy2` `spacy` `genism` `Word Vectors`|Завершен|
-|[Токсичные комментарии][14]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|`pandas` `numpy` `matplotlib`  `sklearn` `nltk` `re` `spacy` `BOW` `TF-IDF`|Завершен|
+|[Предсказание категории товара][11]|ИАД|Имеется информация об объектах 50 классов. Необходимо по новым объектам предсказать категорию товара.|`pandas` `numpy` `matplotlib`  `sklearn` `BOW` `TF-IDF` `Hasing Vectorizer` `pymystem3` `pymorphy2` `spacy` `genism` `Word Vectors`|Завершен|
+|[Токсичные комментарии][12]|Яндекс.Практикум|Необходимо построить модель, которая будет классифицировать комментарии на позитивные и негативные.|`pandas` `numpy` `matplotlib`  `sklearn` `nltk` `re` `spacy` `BOW` `TF-IDF`|Завершен|
 
 ## Временные ряды
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Предсказание заказов такси][15]|Яндекс.Практикум|Необходимо спрогнозировать количество заказов такси на следующий час.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `statsmodels`|Завершен|
+|[Предсказание заказов такси][13]|Яндекс.Практикум|Необходимо спрогнозировать количество заказов такси на следующий час.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `statsmodels`|Завершен|
 
 ## Рекомендательные системы
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций][16]|Курсовой проект|Необходимо реализовать рекомендательную систему, которая позволит предсказывать наиболее релевантные категории товаров или услуг клиентам банка по истории их транзакций.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `scipy` `psycopg2-binary`|Завершен|
+|[Построение рекомендательной системы для продвижения партнерских услуг физическим лицам коммерческого банка на основе данных их транзакций][14]|Курсовой проект|Необходимо реализовать рекомендательную систему, которая позволит предсказывать наиболее релевантные категории товаров или услуг клиентам банка по истории их транзакций.|`pandas` `numpy` `matplotlib` `seaborn` `sklearn` `scipy` `psycopg2-binary`|Завершен|
 
 ## Нейронные сети
 - ### Регрессия
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Предсказание возраста покупателей по фотографии][6]|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|`pandas` `matplotlib` `seaborn` `tensorflow.keras` `ResNet50`|Завершен|
+|[Предсказание возраста покупателей по фотографии][15]|Яндекс.Практикум|Необходимо построить модель, определяющую по фотографии покупателя его возраст.|`pandas` `matplotlib` `seaborn` `tensorflow.keras` `ResNet50`|Завершен|
 
 - ### Классификация
 |Название проекта|Источник|Описание|Инструменты|Статус|
 |:-------|:-------:|:-------|:-------:|:-------:|
-|[Fashion-MNIST][12]|ИАД|Необходимо реализовать оптимизатор Adam с нуля и построить архитектуры нейронных сетей, в том числе AlexNet и LeNet-5.|`numpy` `torch` `torchvision`|Завершен|
+|[Fashion-MNIST][16]|ИАД|Необходимо реализовать оптимизатор Adam с нуля и построить архитектуры нейронных сетей, в том числе AlexNet и LeNet-5.|`numpy` `torch` `torchvision`|Завершен|
 
 [1]: https://github.com/knyht/data-science-projects/tree/master/house_price_prediction
 [2]: https://github.com/knyht/data-science-projects/tree/master/prediction_price_of_cars
 [3]: https://github.com/knyht/data-science-projects/tree/master/well_drilling
 [4]: https://github.com/knyht/data-science-projects/tree/master/rate_of_recovery_of_gold
 [5]: https://github.com/knyht/data-science-projects/tree/master/data_encryption
-[6]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
 
-[7]: https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants
-[8]: https://github.com/knyht/data-science-projects/tree/master/diabet_classification
-[9]: https://github.com/knyht/data-science-projects/tree/master/telecom
-[10]: https://github.com/knyht/data-science-projects/tree/master/mobile_plans_classification
-[11]: https://github.com/knyht/data-science-projects/tree/master/customer_outflow
-[12]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
+[6]: https://github.com/knyht/data-science-projects/tree/master/predictive_analysis_flow_of_applicants
+[7]: https://github.com/knyht/data-science-projects/tree/master/diabet_classification
+[8]: https://github.com/knyht/data-science-projects/tree/master/telecom
+[9]: https://github.com/knyht/data-science-projects/tree/master/mobile_plans_classification
+[10]: https://github.com/knyht/data-science-projects/tree/master/customer_outflow
 
-[13]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
-[14]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
+[11]: https://github.com/Naykht/DataScienceProjects/tree/master/category_prediction
+[12]: https://github.com/Naykht/DataScienceProjects/tree/master/toxic_comments
 
-[15]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
+[13]: https://github.com/Naykht/DataScienceProjects/tree/master/prediction_of_taxi_orders
 
-[16]: https://github.com/AleksandrRadist/RecommendationSystem
+[14]: https://github.com/AleksandrRadist/RecommendationSystem
 
-
+[15]: https://github.com/knyht/data-science-projects/tree/master/predict_age_by_photo
+[16]: https://github.com/knyht/data-science-projects/tree/master/fashion_mnist_classification
