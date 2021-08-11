@@ -5,6 +5,7 @@
 - \[01.20-09.20] Яндекс.Практикум: [Специалист по Data Science](https://github.com/knyht/data-science-projects/blob/master/certificates/diploma_yandex_practicum.pdf)
 
 **Университет, Высшая Школа Экономики:**
+- \[2021-2022, 4 курс] ВКР:
 - Ассистент по курсу:
   - \[2021, 4 курс, 1 семестр] Machine Learning with Python
   - \[2021, 4 курс, 1 семестр] Основы глубинного обучения
